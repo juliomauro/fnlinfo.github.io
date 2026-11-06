@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 10 262 100" role="img" aria-label="FNL Informática">
+  <title>FNL Informática</title>
+  <g fill="none" stroke="#c9a35a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14.6 52.8 A46 46 0 0 1 105.4 52.8"/>
+    <path d="M14.6 67.2 A46 46 0 0 0 105.4 67.2"/>
+    <path d="M2 60 H38 C46 60 48 38 54 38 C60 38 61 80 68 80 C74 80 75 60 84 60 H118"/>
+  </g>
+  <g fill="#c9a35a" transform="translate(0 14)">
+    <path d="M148 78 V32 C148 20 155 14 168 14 H174 V27 H169 C164 27 162 29 162 33 V78 Z"/>
+    <rect x="140" y="38" width="34" height="12"/>
+    <path d="M182 78 V38 H196 V44 C200 39 206 36 213 36 C225 36 232 44 232 57 V78 H218 V59 C218 52 215 49 209 49 C202 49 196 53 196 61 V78 Z"/>
+    <rect x="242" y="14" width="14" height="64"/>
+  </g>
+</svg>
